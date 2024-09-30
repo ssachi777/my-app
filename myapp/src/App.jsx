@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <div> <span>hello, this is sachin good evening</span></div>
+    <div> <span>hello</span></div>
   )
 }
 
